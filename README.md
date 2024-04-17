@@ -19,19 +19,19 @@ Methods
 A utility class containing static methods for getting user choices and displaying student information. It includes getChoice to get menu choices and displayStudents to display information about all students in the ArrayList.
 How to Use
 
-    Run the program (Main class).
-    Choose options from the menu:
-        Option 1: Add a new student.
-        Option 2: Display information about all students.
-        Option 3: Quit the program.
-    Follow the prompts to input student information.
-    Repeat as needed.
-    Choose option 3 to exit the program.
+Run the program (Main class).
+Choose options from the menu:
+Option 1: Add a new student.
+Option 2: Display information about all students.
+Option 3: Quit the program.
+Follow the prompts to input student information.
+Repeat as needed.
+Choose option 3 to exit the program.
 
 Note
 
-    GPA values must be between 0 and 5.0.
-    Credit values must be between 0 and 200.
-    Date of birth is validated for proper day-month-year combinations.
+GPA values must be between 0 and 5.0.
+Credit values must be between 0 and 200.
+Date of birth is validated for proper day-month-year combinations.
 
 Feel free to explore and modify the code according to your needs.
